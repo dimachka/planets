@@ -1,0 +1,13 @@
+once you have changes in the file you should two steps add and then commit to repository
+
+
+git add mars.txt 
+git commit -m "created a new file mars.txt"
+git dif mars.txt
+
+Option 1
+git add mars.txt
+git commit -m "....string"
+
+Option 2
+git commit -a -m "...string"
