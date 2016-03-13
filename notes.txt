@@ -22,3 +22,8 @@ TO CREATE A BUNCH OF FILES WITH EXTENTION TMP
 touch nameofdirectory/{a..z}.tmp
 
 file .gitignore - is a file that depositore dose not track
+
+
+TO CONNECT TO REMOT GIT HUB
+git remote add origin https://github.com/dimachka/planets.git
+
