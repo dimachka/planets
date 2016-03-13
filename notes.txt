@@ -15,3 +15,10 @@ Option 2
 git commit -a -m "...string"
 
 
+If you want to restore the removed file
+git checkout HEAD mars.txt
+
+TO CREATE A BUNCH OF FILES WITH EXTENTION TMP
+touch nameofdirectory/{a..z}.tmp
+
+file .gitignore - is a file that depositore dose not track
