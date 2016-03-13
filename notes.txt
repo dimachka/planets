@@ -1,3 +1,5 @@
+git init - to initiate new repository
+
 once you have changes in the file you should two steps add and then commit to repository
 
 
@@ -11,3 +13,5 @@ git commit -m "....string"
 
 Option 2
 git commit -a -m "...string"
+
+
